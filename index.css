@@ -10,6 +10,7 @@
    background-color: black;
    font-family: 'Oswald', sans-serif;
    display: inline-block;
+   width: 100%;
 }
 
 #brnd {
@@ -19,6 +20,7 @@
 a {
    text-decoration: none;
    color: white;
+   float: right;
 }
 
 #home {
