@@ -29,3 +29,8 @@ a {
 #home {
    text-align: center;
 }
+
+#gap1 {
+   padding: 30px 30px;
+   background-color: white;
+}
